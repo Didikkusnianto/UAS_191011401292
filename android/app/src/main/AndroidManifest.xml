@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.uas_Didik">
+    package="com.example.uas_yusup">
    <application
-        android:label="uas_Didik"
+        android:label="uas_yusup"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

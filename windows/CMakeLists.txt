@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(uas_Didik LANGUAGES CXX)
+project(uas_yusup LANGUAGES CXX)
 
-set(BINARY_NAME "uas_Didik")
+set(BINARY_NAME "uas_yusup")
 
 cmake_policy(SET CMP0063 NEW)
 
